@@ -15,7 +15,7 @@ My name is Egor, I am 23 years old
 [Converter.app]:https://github.com/EgorKrivosheev/converter.app
 
 ## Test tasks
-[Travel-bot] — Spring Boot (Web, Data, TelegramBots), Data (Postgre SQL), Build: Maven, Deploy: Heroku
+[Travel-bot] — Java: 11, Spring Boot (Web, Data, TelegramBots), Data (Postgre SQL), Build: Maven, Deploy: Heroku
 
 [Travel-bot]:https://github.com/EgorKrivosheev/travel-bot
 
