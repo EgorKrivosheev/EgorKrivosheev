@@ -9,7 +9,7 @@ My name is Egor, I am 23 years old
 ## Ped-projects
 [Converter] — Java: 8, 2 dependencies (JUnit, Annotations)
 
-[Converter.app] — Spring WEB MVC, Jackson, Build: Maven, Deploy: Heroku
+[Converter.app] — Java: 8, Spring WEB MVC, Jackson, Build: Maven, Deploy: Heroku
 
 [Converter]:https://github.com/EgorKrivosheev/converter
 [Converter.app]:https://github.com/EgorKrivosheev/converter.app
