@@ -1,5 +1,5 @@
 # Hi ✌
-My name is Egor, I am 23 years old
+Projects deployed on heroku is opening at 15-20 sec because they are use a free dyno.
 
 # Projects
 [Room of military glory] — HTML, CSS, JavaScript, GitHub Pages
