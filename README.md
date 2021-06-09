@@ -9,10 +9,10 @@ Projects deployed on heroku is opening at 15-20 sec because they are use a free 
 ## Ped-projects
 [Converter] — Java: 8, 2 dependencies (JUnit, Annotations)
 
-[Converter.app] — Java: 8, Spring WEB MVC, Jackson, Build: Maven, Deploy: Heroku
+[Converter-webapp] — Java: 8, Spring Boot (Web), Build: Maven, Deploy: Heroku
 
 [Converter]:https://github.com/EgorKrivosheev/converter
-[Converter.app]:https://github.com/EgorKrivosheev/converter.app
+[Converter-webapp]:https://github.com/EgorKrivosheev/converter-webapp
 
 ## Test tasks
 [Travel-bot] — Java: 11, Spring Boot (Web, Data, TelegramBots), Data (Postgre SQL), Build: Maven, Deploy: Heroku
