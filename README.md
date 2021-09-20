@@ -11,7 +11,7 @@ Projects deployed on heroku is opening at 15-20 sec because they are use a free 
 
 [Converter-webapp] — `Java: 8`, `Spring Boot` (Web), Build: `Maven`, Deploy: `Heroku`
 
-[Docker-microservices] — `Java: 11`, `Docker-compose`, Build: `Maven`, `Docker`, Deploy: `Heroku`
+[Docker-microservices] — `Java: 11`, `Docker-compose`, Build: `Maven`, `Docker`
 
 [Converter]:https://github.com/EgorKrivosheev/converter
 [Converter-webapp]:https://github.com/EgorKrivosheev/converter-webapp
