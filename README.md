@@ -7,7 +7,7 @@ Projects deployed on heroku is opening at 15-20 sec because they are use a free 
 [Room of military glory]:https://github.com/EgorKrivosheev/school13grodno.github.io
 
 ## Ped-projects
-[Converter] — `Java: 8`, 2 dependencies (`JUnit`, Annotations)
+[Converter] — `Java: 8`, 1 dependency (`JUnit`)
 
 [Converter-webapp] — `Java: 8`, `Spring Boot` (Web), Build: `Maven`, Deploy: `Heroku`
 
