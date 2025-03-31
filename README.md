@@ -2,9 +2,12 @@
 Projects deployed on heroku is opening at 15-20 sec because they are use a free dyno.
 
 # Projects
+[Interview-manager-bot] - `Kotlin`, `Spring boot`, `Docker-compose`, Build: `Gradle-kotlin`, `Docker`
+
 [Room of military glory] — HTML, CSS, JavaScript, GitHub Pages
 
 [Room of military glory]:https://github.com/EgorKrivosheev/school13grodno.github.io
+[Interview-manager-bot]:https://github.com/EgorKrivosheev/interview_manager
 
 ## Ped-projects
 [Converter] — `Java: 8`, 1 dependency (`JUnit`)
